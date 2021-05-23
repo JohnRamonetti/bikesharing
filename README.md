@@ -28,11 +28,6 @@ POINT #6 - The 'User Trips by Gender by Weekday' heatmap demonstrates the follow
 POINT #7 - Our 'Bike Utilization' and 'Bike Repairs' charts show that some bikes are used for many trips and many total hours, while other bikes are hardly used at all.  More analysis is called for to assess whether there are predictable patterns of use for high- or low-use bikes.
 
 
-How long bikes are checked out for all riders and genders.
-How many trips are taken by the hour for each day of the week, for all riders and genders.
-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
-
-
 
 ## SUMMARY
 ### The results of this analysis have given insight into the utilization of bicycles in the NYC Citibike bike-sharing program. We've seen the patterns of useage by time and by gender.  Utilization rates can now be predicted based on time of day and location.  Weekday useage is heavily concentrated around the morning and afternoon commute.  Weekend useage is more evenly spread through the day.  We would recommend further analysis for a few points.  Firstly, while we've seen that the vast majority of trips are 30 min or less, we should perform further analysis to compare weekend trip durations to weekday trip durations.  We should also look further into the patterns of useage for the bicycles that see the heaviest use, perhaps preparing maps showing all of the starting/ending routes/locations for the heaviest use bikes.  We should also prepare a visualization to determine if there are specific locations that are completely unused.
