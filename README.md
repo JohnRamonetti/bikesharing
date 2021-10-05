@@ -32,3 +32,8 @@ MODULE 14 - Citibike analysis
 ## SUMMARY
 ### The results of this analysis have given insight into the utilization of bicycles in the NYC Citibike bike-sharing program. We've seen the patterns of useage by time and by gender.  Utilization rates can now be predicted based on time of day and location.  Weekday useage is heavily concentrated around the morning and afternoon commute.  Weekend useage is more evenly spread through the day.  We would recommend further analysis for a few points.  Firstly, while we've seen that the vast majority of trips are 30 min or less, we should perform further analysis to compare weekend trip durations to weekday trip durations.  We should also look further into the patterns of useage for the bicycles that see the heaviest use, perhaps preparing maps showing all of the starting/ending routes/locations for the heaviest use bikes.  We should also prepare a visualization to determine if there are specific locations that are completely unused.
 
+
+________________________________
+#### Contact:
+
+#### E-mail: [john.ramonetti@gmail.com](mailto:john.ramonetti@gmail.com)
