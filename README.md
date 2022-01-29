@@ -25,7 +25,7 @@ MODULE 14 - Citibike analysis
 
   - [POINT #6](Images/Pt6.png) - The **'User Trips by Gender by Weekday'** heatmap demonstrates the following points:  subscribers are mostly male and account for most of the weekday activity,  customers' gender are often unknown,  and useage on the weekend is more evenly split between subscribers and customers.
 
-  - [POINT #7](Images/Pt7.png) - Our **'Bike Utilization'** and **'Bike Repairs'** charts show that some bikes are used for many trips and many total hours, while other bikes are hardly used at all.  More analysis is called for to assess whether there are predictable patterns of use for high- or low-use bikes.
+  - [POINT #7](Images/Pt7.png) - Our **'Bike Utilization'** and **'Bike Repairs'** charts show that some bikes are used for many trips and many total hours, while other bikes are hardly used at all.  More analysis is called for to assess whether there are predictable patterns of use for high- or low-use bikes. 
 
 
 
